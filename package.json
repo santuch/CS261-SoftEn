@@ -1,0 +1,15 @@
+{
+    "name": "cs261soft-en",
+    "version": "1.0.0",
+    "description": "Frontend of Web App Request Form",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Santuch",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
